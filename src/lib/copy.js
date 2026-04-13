@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/looduskosmeetika",
 
   metadata: {
-    title: "Looduskosmeetika juhend | PerfuMaria das Ervas",
+    title: "Looduskosmeetika juhend",
     description:
-      "80 retsepti 100% looduskosmeetika valmistamiseks kodus. Testitud ja tõestatud valemid isiklikuks kasutamiseks või oma äri alustamiseks.",
+      "80 retsepti 100% looduskosmeetika valmistamiseks kodus. Testitud ja ohutud valemid naha hooldamiseks ja mürgiste kemikaalide vältimiseks.",
   },
 
   hero: {
     headlineLine1: "80 retsepti",
     headlineHighlight: "LOODUSKOSMEETIKA JAOKS",
     subheadline:
-      "Saa ligipääs 100% looduskosmeetika salajastele retseptidele, mida saad valmistada mugavalt oma kodus! Testitud ja tõestatud valemid isiklikuks kasutamiseks või oma äri alustamiseks.",
+      "Saa ligipääs 100% looduskosmeetika salajastele retseptidele, mida saad valmistada mugavalt oma kodus! Testitud ja turvalised valemid, et kaitsta oma perekonda ja loobuda toksiine täis tööstustoodetest.",
     cta: "SOOVIN KOHE LIGIPÄÄSU!",
     imageAlt: "Looduskosmeetika juhend",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Annan sulle nüüd ühe praktilise juhendi, otse asja juurde, ilma liigse keerukuseta, kuid äärmiselt usaldusväärse, et saaksid luua oma 100% looduskosmeetikat kodus. Ilma varandust kulutamata, sõltumata tuhandetest koostisosadest – ja võimalusega kasutada seda ise, kinkida oma lähedastele või isegi müüa, kui soovid luua uue sissetulekuallika!",
+    text: "Annan sulle nüüd ühe praktilise juhendi, otse asja juurde, ilma liigse keerukuseta, kuid äärmiselt usaldusväärse, et saaksid luua oma 100% looduskosmeetikat kodus. Ilma varandust kulutamata, sõltumata tuhandetest koostisosadest – ning rõõmuga kasutada seda ise, kinkida oma lähedastele ja nautida koos 100% turvalist ja tervislikku hoolitsust!",
     imageAlt: "Looduskosmeetika",
   },
 
@@ -121,31 +121,31 @@ export const copy = {
   },
 
   whatYouGet: {
-    headline: "MIDA LEIAD SELLEST TÄIUSLIKUST JUHENDIST?",
+    headline: "MIDA LEIAD SELLEST ERAKORDSEST JUHENDIST?",
     cta: "HANGI JUHEND KOHE!",
     imageAlt: "Mida juhendist leiad",
     items: [
-      "Üle 80 testitud ja tõestatud retsepti – sealhulgas kreemjas kooriv seep, kuivõli näole, kehasprei, juuste kuumakaitse ja mitmekülgsed uued valemid.",
-      "Baasretseptid kreemidele, geelidele, šampoonidele ja seepidele – õpi looma ohutuid ja personaalseid valemeid igale naha- ja juuksetüübile.",
-      "Täielik samm-sammuline juhend algajatele ja edasijõudnutele – omanda kõike alates põhikontseptsioonidest kuni kõige keerukamate tehnikateni.",
-      "Koostisosade kataloog – avasta erinevate looduslike toorainete eelised, et luua väga tõhusat kosmeetikat.",
-      "Fütoteraapia rakendamine kosmetoloogias – kuidas kasutada ravimtaimi oma kosmeetika toime tugevdamiseks.",
-      "Loodusliku formuleerimise saladused – pH reguleerimine, säilitamine, tooraine valik ja tõhusad kombinatsioonid.",
-      "Nõuanded koduseks ja professionaalseks tootmiseks – loo oma looduskosmeetika stuudio ja täiusta oma tehnikaid.",
-      "Jätkusuutlikkus ja keskkonnahoid – õpi looma biolagunevat ja keskkonnasõbralikku kosmeetikat.",
+      "Üle 80 testitud ja tõestatud retsepti – sealhulgas kreemjas kooriv seep, kuivõli näole, kehasprei, juuste kuumakaitse ja arvukalt uusi, innovaatilisi valemeid.",
+      "Baasretseptid kreemidele, geelidele, šampoonidele ja seepidele – õpi looma 100% ohutuid ja isikupärastatud tooteid igale naha- ja juuksetüübile.",
+      "Täielik samm-sammuline juhend algajatele ja edasijõudnutele – omanda kõike alates põhimõistetest kuni kõige keerukamate kosmeetika valmistamise tehnikateni.",
+      "Koostisosade kataloog – avasta erinevate looduslike toorainete eelised, et luua kvaliteetset ja puhast kosmeetikat.",
+      "Fütoterapie rakendamine kosmetoloogias – kuidas kasutada ravimtaimi oma kosmeetika toime maksimaalseks tugevdamiseks.",
+      "Loodusliku formuleerimise saladused – pH reguleerimine, looduslik säilitamine, tooraine valik ja kõige tõhusamad kombinatsioonid.",
+      "Nõuanded täiuslikuks koduseks tootmiseks – muuda oma köök turvaliseks kohaks puhta kosmeetika loomiseks ja täiusta oma oskusi.",
+      "Jätkusuutlikkus ja keskkonnahoid – õpi looma täielikult biolagunevat ja planeedisõbralikku kosmeetikat.",
     ],
   },
 
   testimonials: {
-    headline: "VAATA, MIDA INIMESED LOODUSKOSMEETIKA JUHENDI KOHTA ÜTLEVAD:",
-    cta: "SOOVIN KOHE LIGIPÄÄSU!",
+    headline: "VAATA, MIDA ÜTLEVAD NAISED, KES SEDA JUHENDIT JUBA KASUTAVAD:",
+    cta: "LIITU NENDEGA!",
     cards: [
       {
         name: "Maarja S.",
         initials: "MS",
         color: "#16a34a",
         stars: 5,
-        text: "Ma armastan seda juhendit! Tegin juba rahustava kehakreemi ja näoseebi ning need tulid imelised. Palju paremad kui poest ostetud tooted, mida varem kasutasin. Soovitan soojalt!",
+        text: "Ma armastan seda juhendit! Tegin juba rahustava kehakreemi ja näoseebi – need tulid imelised. Palju paremad kui tööstuslikud tooted, mida varem kasutasin. Soovitan soojalt kõigile!",
         source: "WhatsApp",
       },
       {
@@ -153,7 +153,7 @@ export const copy = {
         initials: "KT",
         color: "#0f766e",
         stars: 5,
-        text: "Kuulge, see on lihtsalt suurepärane juhend! Retseptid on väga detailsed ja neid on lihtne jälgida. Olen juba mitu toodet sõbrannadele müünud ja nad fännavad neid. Väärt iga senti!",
+        text: "Naised, see on lihtsalt suurepärane juhend! Retseptid on väga detailsed ja neid on lihtne järgida. Tegin juba mitu toodet sõbrannadele kingituseks ja nad on vaimustuses. Väärt iga senti!",
         source: "WhatsApp",
       },
       {
@@ -161,7 +161,7 @@ export const copy = {
         initials: "LM",
         color: "#7c3aed",
         stars: 5,
-        text: "Ma alguses veidi kõhklesin ostmisel, aga see oli kindlasti seda väärt! Toorainete kataloog aitas mul koostisosi palju paremini mõista. Olen juba teinud 6 erinevat retsepti ja kõik on suurepäraselt õnnestunud.",
+        text: "Ma alguses veidi kõhklesin ostmisel, aga see oli kindlasti seda väärt! Toorainete kataloog aitas mul koostisosi palju paremini mõista. Olen juba teinud 6 erinevat retsepti ja kõik on veatult õnnestunud.",
         source: "WhatsApp",
       },
       {
@@ -169,83 +169,83 @@ export const copy = {
         initials: "TK",
         color: "#b45309",
         stars: 5,
-        text: "Milline uskumatu investeering! Selle juhendi abil õppisin tegema tahket šampooni ja palsamit. Mu juuksed on palju tervemad ja ma säästan iga kuu korralikult raha. Suur tänu!",
+        text: "Milline suurepärane investeering! Selle juhendi abil õppisin lõpuks tegema tahket šampooni ja palsamit. Mu juuksed on elujõulisemad, palju tervislikumad ja ma säästan iga kuu kosmeetika pealt korralikult raha. Aitäh!",
         source: "WhatsApp",
       },
     ],
   },
 
   autonomyIntro: {
-    text1: "Looduskosmeetika juhendiga õpid looma oma kosmeetikat nullist.",
-    text2: "See näitab sulle samm-sammult, kuidas valida looduslikke koostisosi, kohandada valemeid erinevatele naha- ja juuksetüüpidele ning isikupärastada tooteid vastavalt sinu vajadustele.",
-    text3: "Lisaks saavutad enesekindluse ja iseseisvuse formuleerimises, olles võimeline retsepte testima ja kohandama, et luua unikaalseid, oma identiteediga tooteid. Tänu põhjalikule looduslike toorainete kataloogile õpid tundma parimaid koostisosi ja leiad ideaalse kombinatsiooni iga kosmeetikatoote jaoks.",
-    cta: "HANGI JUHEND KOHE!",
-    imageAlt: "Iseseisvus looduskosmeetikas",
+    text1: "Looduskosmeetika juhendiga õpid looma oma tooteid täiesti nullist.",
+    text2: "See näitab sulle samm-sammult, kuidas teadlikult valida looduslikke koostisosi, kohandada valemeid vastavalt naha tüübile või juuste poorsusele ning isikupärastada tooteid nii, et need vastaksid ideaalselt sinu vajadustele.",
+    text3: "Saavutad enesekindluse ja täieliku iseseisvuse formuleerimises. Saad retsepte testida ja täiustada, luues ainulaadset ja oma iseloomuga kosmeetikat. Tänu eriti põhjalikule looduslike toorainete kataloogile õpid tundma parimaid koostisosi ja leiad ideaalsed kombinatsioonid iga tooteliigi jaoks.",
+    cta: "HANGI JUHEND!",
+    imageAlt: "Iseseisvus looduskosmeetika valmistamisel",
   },
 
   benefitsList: {
-    headline: "Sõltumatus ja loovus looduskosmeetikas!",
+    headline: "Sõltumatus ja loovus loodusliku hoolitsuse maailmas!",
     cta: "SOOVIN KOHE LIGIPÄÄSU!",
     items: [
       {
         bold: "Õpi valmistama",
-        rest: " kreeme, seerumeid, šampoone, seepe ja palju muud.",
+        rest: " kreeme, seerumeid, šampoone, seepe ja paljusid muid hooldustooteid.",
       },
       {
-        bold: "Avasta, kuidas valida",
-        rest: " õigeid koostisosi igaks vajaduseks.",
+        bold: "Avasta, kuidas eksimatult valida",
+        rest: " õigeid koostisosi naha ja juuste iga spetsiifilise vajaduse jaoks.",
       },
       {
-        bold: "Muutu sõltumatuks tööstuslikust kosmeetikast ja",
-        rest: " arenda välja personaalseid valemeid.",
+        bold: "Vabane tööstuslikust keemiast ja",
+        rest: " arenda välja 100% personaalsed, looduslikud valemid.",
       },
       {
         bold: "Sukeldu kosmetoloogias rakendatavasse fütoteraapiasse,",
-        rest: " kasutades ära ravimtaimede terapeutilisi omadusi.",
+        rest: " saades osa ravimtaimede ja ekstraktide tervendavatest omadustest.",
       },
       {
-        bold: "Vähenda kulusid,",
-        rest: " luues ise oma kosmeetikat ilma kvaliteedis järeleandmisi tegemata.",
+        bold: "Vähenda oluliselt oma kulusid,",
+        rest: " luues ise oma kosmeetikat ilma selle kvaliteedis vähimatki järeleandmist tegemata.",
       },
       {
-        bold: "Saa ligipääs professionaalsetele valemitele",
-        rest: " ja õpi looma parimaid tooteid ohutult.",
+        bold: "Saa ligipääs professionaalsetele retseptidele",
+        rest: " ja õpi turvaliselt looma tipptasemel tooteid.",
       },
       {
-        bold: "Eristu loodusilu turul,",
-        rest: " mis kasvab järjest enam ja väärtustab jätkusuutlikke tooteid.",
+        bold: "Paku oma nahale parimat hoolitsust,",
+        rest: " teades täpselt, milliseid puhtaid koostisosi sa kasutad.",
       },
       {
-        bold: "Õpi üles seadma kodust kosmeetikastuudiot,",
-        rest: " koos praktiliste nõuannetega tööruumi korraldamiseks.",
+        bold: "Kaitse oma pere tervist",
+        rest: " toodetega, mis on vabad kahjulikest säilitusainetest ja kunstlikest värvainetest.",
       },
     ],
   },
 
   economy: {
-    headline: "Säästud ja ärivõimalus looduskosmeetika turul!",
-    text1: "Oma looduskosmeetika loomine on suurepärane võimalus nii raha säästmiseks kui ka äri alustamiseks. Looduskosmeetika juhendiga õpid tootma kvaliteetset kosmeetikat madalate kuludega, vältides tavatoodete ülemääraseid hindu ja investeerides taskukohastesse ning tõhusatesse looduslikesse koostisosadesse.",
-    text2: "Kui soovid alustada oma ettevõtlusega, on see väärtuslik teejuht jätkusuutliku ja kasumliku äri loomisel. Eksklusiivsete valemite ning praktiliste nõuannetega säilitamise, pakendamise ja turunduse kohta saad luua oma looduskosmeetika brändi, pakkudes käsitöötooteid, mis järgivad teadliku ja ökoloogilise tarbimise trendi.",
-    cta: "HANGI JUHEND KOHE!",
-    imageAlt: "Äri looduskosmeetika turul",
+    headline: "Säästmine ja tervislik hooldus ilma ainsagi grammi keemiata!",
+    text1: "Oma looduskosmeetika loomine on parim viis naha kaitsmiseks ja samal ajal tohutult raha säästmiseks. Looduskosmeetika juhendiga õpid valmistama tippkvaliteediga tooteid vaid murdosa eest poehinnast. Nii väldid ülemaksmist keemiat täis laiatarbekosmeetika eest ja investeerid taskukohastesse, puhastesse ja väga tõhusatesse looduslikesse toorainetesse.",
+    text2: "See on sinu hindamatu käsiraamat tervislikumale elustiilile üleminekul. Tänu eksklusiivsetele retseptidele saad tagasi täieliku kontrolli selle üle, mida oma kehale määrid. Saad nautida käsitöötooteid, mis on 100% ohutud, ökoloogilised ja õrnad nii sinu naha kui ka keskkonna vastu.",
+    cta: "ALUSTAN VALMISTAMIST!",
+    imageAlt: "Tervislik hoolitsus",
   },
 
   finalCta: {
     urgencyLabel: "VIIMANE PÄEV TELLIMISEKS",
-    urgencySub: "soodushinnaga!",
+    urgencySub: "soodus- ja kampaaniahinnaga!",
     urgencyText:
-      "See on sinu viimane võimalus kasutada meie eripakkumist ja liituda meie tuhandetest rahulolevatest õpilastest koosneva perega!",
+      "See on sinu absoluutselt viimane võimalus kasutada meie erakordset pakkumist ja liituda tuhandete vaimustunud õpilastega!",
     offerPrice: "9.90 €",
     button: "SAA LIGIPÄÄS KOHE!",
     productTitle: "Looduskosmeetika juhend!",
     imageAlt: "Looduskosmeetika juhend",
     bundleList: [
       "80 looduskosmeetika retsepti",
-      "Põhjalik õppematerjal",
-      "Toorainete hariv kataloog",
-      "Õpilaste kogukond",
-      "Spetsiaalne tugi küsimuste korral",
-      "Tarnijate nimekiri",
+      "Põhjalik samm-sammuline käsiraamat",
+      "Toorainete õpetlik leksikon",
+      "Ligipääs suletud kogukonnale",
+      "Ekspertide tugi kõikidele küsimustele",
+      "Kontrollitud ja usaldusväärne tarnijate nimekiri",
     ],
     timerLabels: {
       days: "Päeva",
@@ -256,8 +256,6 @@ export const copy = {
   },
 
   footer: {
-    tagline: "Avasta, kuidas luua täiuslikku looduskosmeetikat!",
-    linkLabel: "Täielik looduskosmeetika kursus",
-    linkHref: "https://www.perfumariadaservas.shop",
+    tagline: "Avasta koos meiega, kuidas luua täiuslikku looduskosmeetikat!",
   },
 };
